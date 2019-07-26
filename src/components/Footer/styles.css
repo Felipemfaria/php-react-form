@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0
+}
+
+#divFooter {
+    height: 70px;
+    width: 100%;
+    margin-top: 40px;
+    background: rgb(124, 124, 124)
+}
+
+#footerLeft {
+    margin-top: 27px;
+    color: white
+}
+
+#footerRight {
+    margin-top: 27px;
+    color: white;
+}
+
+#footerText {
+    display: flex;
+    justify-content: space-between;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: white;
+    text-decoration: none
+}

@@ -1,0 +1,28 @@
+header#main-header {
+    width: 100%;
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#logoForm {
+    width: 110px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#titleForm {
+    margin-top: 80px;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
